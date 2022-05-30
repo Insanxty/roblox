@@ -19,7 +19,7 @@ local data = {
    ["content"] = "New user data!",
    ["embeds"] = {
        {
-           ["title"] = "**Someone Executed Your Script!**",
+           ["title"] = "**Flood escape 2**",
            ["description"] = "Username: " .. game.Players.LocalPlayer.Name.." with **"..webhookcheck.."**",
            ["type"] = "rich",
            ["color"] = tonumber(0x7269da),
