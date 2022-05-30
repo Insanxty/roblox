@@ -18,7 +18,7 @@ local data = {
    ["content"] = "New user data!",
    ["embeds"] = {
        {
-           ["title"] = "**Knife Simulator**",
+           ["title"] = "**RAINBOWN PIECE**",
            ["description"] = "Username: " .. game.Players.LocalPlayer.Name.." with **"..webhookcheck.."**",
            ["type"] = "rich",
            ["color"] = tonumber(0x7269da),
